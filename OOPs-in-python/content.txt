@@ -7,3 +7,9 @@
 
 4. Advantage of opps--
     you create your own data types
+
+5. end to end project done(chatbook class)
+    -> encapsulation
+    -> getter ande setter
+    -> static method
+    
