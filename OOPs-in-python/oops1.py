@@ -1,10 +1,10 @@
 class employee:
     def __init__(self):
-        print('started excuting data/atribute')
+        # print('started excuting data/atribute')
         self.id = 123
         self.salary = 50000
         self.disagnation = "SDE"
-        print('atribute/data have been initiated')
+        # print('atribute/data have been initiated')
     
     def travel(self,destination):
         print('this travel method called manutally')

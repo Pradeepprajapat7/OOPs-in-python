@@ -9,6 +9,9 @@
     you create your own data types
 
 5. end to end project done(chatbook class)
+
+    Function vs method.
+
     -> encapsulation
     -> getter ande setter
     -> static method
