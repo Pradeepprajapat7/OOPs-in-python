@@ -15,4 +15,7 @@
     -> encapsulation
     -> getter ande setter
     -> static method
+
+
+    -> Inheritance
     
